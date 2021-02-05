@@ -2,7 +2,7 @@
 
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Kyle Quintal and I'm a Software engineer/Data Scientist/Entrepreneur from Montréal, Canada.
+My name is Kyle Quintal and I'm a Software Engineer/Data Scientist/Entrepreneur from Montréal, Canada.
 
 ## &#x1f4c8; GitHub Stats
 
