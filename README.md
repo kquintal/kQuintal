@@ -1,10 +1,10 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# GM! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm Kyle, a Software Engineer/Data Scientist/Entrepreneur from Montréal, Canada.
+Kyle here, a Software Engineer/Data Scientist/Entrepreneur/Coffee addict from Montréal, Canada.
 
-Also know as Classicus or ClassicusHD.
+People also know me as Classicus or ClassicusHD.
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
