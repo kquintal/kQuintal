@@ -2,9 +2,7 @@
 
 # GM! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Kyle here, a Software Engineer/Data Scientist/Entrepreneur from Montréal, Canada.
-
-A.K.A Classicus
+Classicus here, a Software Engineer/Data Scientist/Entrepreneur from Montréal, Canada.
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
