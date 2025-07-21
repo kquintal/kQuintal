@@ -2,7 +2,7 @@
 
 # Nice to meet you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Hi! Classicus here, a Software Engineer/Data Scientist/Entrepreneur from Montréal, Canada.
+Hi! Kyle here, a Software Engineer/Data Scientist/Tech nerd from Montréal, Canada.
 
 # Current toolbox
 <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="Go Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="ETH Logo" width="50" height="50"/>
