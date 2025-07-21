@@ -5,7 +5,7 @@
 Hi! Classicus here, a Software Engineer/Data Scientist/Entrepreneur from Montréal, Canada.
 
 # Current toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="NodeJs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="ETH Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongo Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="Go Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="ETH Logo" width="50" height="50"/>
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
